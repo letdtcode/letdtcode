@@ -1,6 +1,7 @@
 👋 Hi, I’m @DucThanh or mascara for short
 <br/>👀 I’m currently a Java Developer
 <br/>📫 Contact me at: [Facebook](https://www.facebook.com/yumndt.23/)
+## **About Me: <img src="./about-me.gif" width="40">**
 <!--END_SECTION:waka-->
 
 <div>
