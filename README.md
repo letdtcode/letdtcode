@@ -27,4 +27,4 @@
      src="https://github-readme-stats.vercel.app/api?username=letdtcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="auto" height="auto" />
 
 <img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
-<img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/main/giphy.gif?raw=true" width="35%" height="35%" />
+<img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" />
