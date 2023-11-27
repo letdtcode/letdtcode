@@ -17,14 +17,14 @@
 <br />
 <br />
 <br />
-
-
-<img style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:100% ;
-  grid-column: 1/-1;" 
-     src="https://github-readme-stats.vercel.app/api?username=letdtcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="auto" height="auto" />
+<div align=center>
+  <a href="#" title="Mascara">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letdtcode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="letdtcode">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=letdtcode&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 <img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
 <img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" />
