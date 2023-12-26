@@ -9,11 +9,11 @@ A motivated individual with in-depth knowledge of development technologies and t
 <h4>Skills: </h4>  <span>HTML / CSS / JavaScript / Java / Spring boot / Spring Security / Spring Data JPA ...</span>
 <hr>
 <div>
-<a href="https://www.facebook.com/horizon.pisces/">
+<a href="https://www.facebook.com/yumndt.23/">
   <img align="left" width="40px" alt="Phúc Phạm (Dan or Daniel) | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCvrv5d9RL2aJFzRdoryjY8g">
+<a href="https://www.youtube.com/">
   <img align="left" width="40px" alt="Đức Thành (DucThanh or mascara) | Facebook" src="https://img.icons8.com/fluency/344/youtube-play.png"/>
 </a>
 </div>
