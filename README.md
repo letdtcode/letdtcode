@@ -1,4 +1,4 @@
-👋 Hi, I’m @DucThanh or mascara for short
+👋 Hi, I’m @DucThanh or Masca for short
 <br/>👀 I’m currently a Java Developer
 <br/>📫 Contact me at: [Facebook](https://www.facebook.com/yumndt.23/)
 
